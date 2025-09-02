@@ -1,4 +1,4 @@
-public class Main {
+public class MultTable {
     public static void main(String[] args) {
         System.out.println("  y | 1y | 2y | 3y | 4y | 5y ");
         System.out.println("----|----|----|----|----|----");
